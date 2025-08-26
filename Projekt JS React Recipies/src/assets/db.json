@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vorspeisen",
+      "id": 1
+    },
+    {
+      "name": "Hauptgerichte",
+      "id": 2
+    },
+    {
+      "name": "Desserts",
+      "id": 3
+    },
+    {
+      "name": "Vegetarisch",
+      "id": 4
+    }
+  ],
+  "recipes": [
+    {
+      "category": "1",
+      "name": "Gefüllte Champignons",
+      "duration": "45 Minuten",
+      "difficulty": "2 von 5",
+      "ingredients": "8 große Champignons, frische\n1 Becher Schmand, evtl. laktosefrei\n1 Zwiebel(n)\n80g Schinken oder Speck, gewürfelt, evtl.\n½ Bund Schnittlauch\n80g Käse, geriebener (z. B. Emmentaler)\nSalz und Pfeffer\netwas Butter oder Öl",
+      "cooking": "Die Champignons mit einem Pinsel oder einem Tuch von Erde befreien. Die Stiele vorsichtig rausziehen, aber nicht wegwerfen, beiseite legen.\n\nDie Zwiebel und die Pilzstiele fein würfeln, den Schnittlauch in feine Ringe schneiden, ein Blech oder einfach eine Auflaufform etwas einfetten, die Pilzköpfe mit dem Loch nach oben darauflegen.\n\nDen Backofen auf etwa 200 °C Ober-/Unterhitze vorheizen.\n\nDie Pilz- und Zwiebelwürfelchen in wenig Butter mit den Schinkenwürfelchen in einer Pfanne kurz anbraten. In einer Schüssel die Zwiebel-Pilz-Schinken-Mischung mit dem Schmand verrühren, den Schnittlauch unterrühren und mit Salz und Pfeffer abschmecken. Aber vorsichtig mit dem Salz sein, die Schinkenwürfel sind bereits salzig.\n\nDie Mischung in die Pilze füllen, über jeden Pilz etwas geriebenen Käse streuen, die Pilze in den Ofen schieben und etwa 15 - 20 Minuten, bis die Pilze schön überbacken sind und der Käse leicht bräunt, überbacken.\n\nDazu passen gut Blattsalate.",
+      "id": 1
+    },
+    {
+      "category": "1",
+      "name": "Gebratener Schafskäse im Speckmantel auf Rucola-Parmesan-Salat",
+      "duration": "20 Minuten",
+      "difficulty": "2 von 5",
+      "ingredients": "300g Schafskäse (z.B. Manouri)\n100g Speck, dünne Scheiben\nRucola\nParmesan\nOlivenöl\nBalsamico",
+      "cooking": "Rucola waschen und mit Balsamicoessig und Olivenöl anrichten und auf die Teller verteilen. Mit einer groben Käsereibe den Parmesan frisch darüber reiben.\n\nDen Schafskäse in Würfel schneiden und mit Speck umwickeln, evtl. Zahnstocher zur Befestigung verwenden. In heißem Öl braten und wenden, bis der Speck überall angeröstet ist.\n\nDen Rucola Salat mit den Schafskäsewürfeln garnieren - fertig!",
+      "id": 2
+    },
+    {
+      "category": "1",
+      "name": "Winterliche Maronensuppe",
+      "duration": "50 Minuten",
+      "difficulty": "2 von 5",
+      "ingredients": "100g Butter\n3 kleine Zwiebel(n), fein geschnitten\n400g Marone(n), gekocht, geschält, gehackt\n750ml Gemüsefond\n350ml Sahne\n125ml Milch\nSalz\nZucker\netwas Zimtpulver",
+      "cooking": "Die Butter erhitzen und die Zwiebeln darin glasig anschwitzen. Die gehackten Maronen dazugeben und mit dem Fond auffüllen. Auf kleiner Flamme 30 Minuten kochen lassen.\n\nDann die Sahne und die Milch dazugeben und weitere 5 Minuten köcheln lassen. Mit dem Mixstab fein pürieren und mit den Gewürzen abschmecken.",
+      "id": 3
+    },
+    {
+      "category": "2",
+      "name": "Indisches Butter Chicken aus dem Ofen",
+      "duration": "120 Minuten",
+      "difficulty": "4 von 5",
+      "ingredients": "500g Hähnchenbrust\n\nFür die Marinade:\n1 TL Paprikapulver\n1 EL Limonensaft oder Zitronensaft\n1 TL Salz\n1 Becher Joghurt (150 g)\n1 TL Cayennepfeffer\n1 EL Garam Masala\n1 Zehe/n Knoblauch\n1 Stück(e) Ingwer, daumengroß\n\nAußerdem:\n4 EL Butter\n1 Zwiebel(n)\n500g Tomaten, passierte\n1 TL Zimt\n1 TL Salz\n2 TL Cayennepfeffer\n1 Stück(e) Ingwer, daumengroß\n1 Zehe/n Knoblauch\n1 EL Honig\n150ml Sahne\neinige Korianderblätter, optional",
+      "cooking": "Die Hähnchenbrust in Stücke schneiden. Aus 1 TL Paprikapulver, 1 EL Limonen- bzw. Zitronensaft, 1 TL Salz, 1 Becher Joghurt, 1 TL Cayennepfeffer, 1 EL Garam Masala Pulver, 1 Stück Ingwer und 1 Knoblauchzehe eine Marinade herstellen. Das Fleisch mit der Marinade mischen.\n\nMindestens eine Stunde einziehen lassen. Besser ist es, das Fleisch bereits am Vortag zu marinieren und über Nacht in den Kühlschrank zu stellen.\n\nDen Ofen auf 200 °C Ober-/Unterhitze vorheizen dann das Fleisch in einer Auflaufform für 25 Minuten garen.\n\nDie Zwiebel klein hacken und in 2 EL Butter glasig anschwitzen. Die passierten Tomaten, den Zimt, 1 TL Salz, 2 TL Cayennepfeffer, 1 Stück Ingwer und 1 Knoblauchzehe hinzugeben. Alles 20 Minuten mit Deckel und bei niedriger Temperatur köcheln lassen. Gelegentlich umrühren. Nun die restlichen 2 EL Butter, den Honig und die Sahne hinzufügen, weitere 3 Minuten köcheln. Das Fleisch aus der Marinade nehmen, in die Soße geben, kurz umrühren und 2 Minuten mitköcheln lassen.\n\nDazu passt Reis oder Naan.\n\nWer gerne Koriandergrün mag, der kann ganz am Ende noch ein paar frisch gehackte Blätter hinzufügen.",
+      "id": 4
+    },
+    {
+      "category": "2",
+      "name": "Rinderrouladen klassisch",
+      "duration": "180 Minuten",
+      "difficulty": "5 von 5",
+      "ingredients": "2 Rinderroulade(n)\n1 ¼ Zwiebel(n)\n1 Gewürzgurke(n)\n1 EL Senf, mittelscharfer\n3 Scheibe/n Frühstücksspeck\n½ EL Butterschmalz\n¼ Stück(e) Knollensellerie\n¼ Möhre(n)\n⅛ Stange/n Lauch\n⅛ Flasche Rotwein, guter\nSalz und Pfeffer\n⅛ Liter Rinderfond, kräftiger\nTL Speisestärke\n¼ Schuss Gurkenflüssigkeit",
+      "cooking": "Die Rinderrouladen aufrollen, waschen und mit Küchenkrepp trockentupfen. Zwiebeln in Halbmonde, Gurken in Längsstreifen schneiden. Schere und Küchengarn bereitstellen.\n\nDie ausgebreiteten Rouladen dünn mit Senf bestreichen, salzen und pfeffern. Auf jede Roulade mittig in der Länge ca. 1/2 Zwiebel und 1 1/2 Scheiben Frühstücksspeck sowie 1/2 (evtl. mehr) Gurke verteilen. Nun von beiden Längsseiten etwas einschlagen, dann aufrollen und mit dem Küchengarn wie ein Postpaket verschnüren.\n\nIn einer Pfanne das Butterschmalz heiß werden lassen und die Rouladen dann rundherum darin anbraten. Herausnehmen und in einen Schmortopf umfüllen.\n\nDen Sellerie, die restliche Zwiebel, Lauch und die Möhren kleinschneiden und in der Pfanne anbraten. Sobald sie halbwegs \"blond\" sind, kurz rühren. Eine sehr dünne Schicht vom Rotwein angießen, nicht mehr rühren und die Flüssigkeit verdampfen lassen. Sobald das Gemüse dann wieder trockenbrät, wieder eine Schicht Wein angießen, kurz rühren und weiter verdampfen lassen. Dies wiederholen, bis die 1/2 Flasche Wein aufgebraucht ist. Auf diese Art wird das Röstgemüse sehr braun (gut für den Geschmack und die Farbe der Soße), aber nicht trocken. Am Schluss mit dem Rinderfond, etwas Salz und Pfeffer und einem guten Schuss Gurkensud auffüllen und dann in den Schmortopf zu den Rouladen geben. Den Topf entweder auf kleiner Flamme oder bei ca. 160 °C Ober-/Unterhitze im heißen Backofen für 1 1/2 Stunden schmoren lassen. Ab und zu evtl. etwas Flüssigkeit zugießen.\n\nNach 1 1/2 Stunden testen, ob die Rouladen weich sind (einfach mal mit den Kochlöffel ein bisschen draufdrücken, sie sollten sich willig eindrücken lassen - wenn nicht, nochmal eine halbe Stunde weiterschmoren). Dann vorsichtig aus dem Topf heben, warmstellen.\n\nDie Soße durch ein Sieb geben, aufkochen. Ca. 1 EL Senf mit etwas Wasser und der Speisestärke gut verrühren, in die kochende Soße nach und nach unter Rühren eingießen, bis die gewünschte Konsistenz erreicht ist. Die Soße evtl. nochmal mit Salz, Pfeffer, Rotwein, Gurkensud abschmecken.\n\nPro Portion 830 Kcal",
+      "id": 5
+    },
+    {
+      "category": "2",
+      "name": "Lasagne",
+      "duration": "100 Minuten",
+      "difficulty": "3 von 5",
+      "ingredients": "Für die Bolognese:\nOlivenöl\n500g Hackfleisch, gemischtes\n1 Zwiebel(n)\n2 Knoblauchzehe(n)\n1 Bund Petersilie oder TK\n1 EL Tomatenmark\n1 Dose Tomate(n), geschälte (800 g)\netwas Rotwein\n\nFür die Béchamelsauce:\n½ Liter Milch\n30g Butter\n40g Mehl\nSalz und Pfeffer\nZitronensaft\nMuskat\n\nAußerdem:\n300g Lasagneplatte(n)\nKäse, geriebener\nButterflöckchen",
+      "cooking": "Ragú Bolognese:\nIn einem Topf das Olivenöl erhitzen, das Hackfleisch darin rundherum anbraten und die gehackten Zwiebeln und die gehackte Petersilie dazugeben. Knoblauch in feinen Scheiben und Tomatenmark dazu rühren und mitbraten. Mit den Dosentomaten aufgießen, salzen und pfeffern. Rotwein nach Belieben beifügen. Das Ragú mindestens eine halbe Stunde lang bei geöffnetem Topf einkochen lassen.\n\nBéchamelsauce:\nButter in einem kleinen Topf schmelzen und das Mehl mit dem Schneebesen unterrühren und hellgelb anschwitzen. Die Milch dazugießen und die Sauce glatt rühren. Wer zu langsam gerührt hat und Klümpchen in der Sauce findet, kann die Sauce durch ein feines Haarsieb passieren und dann weiterkochen lassen. Die Sauce sollte fast eine halbe Stunde lang auf kleiner Flamme köcheln, damit sie den Mehlgeschmack verliert. Mit Salz, Pfeffer und Zitronensaft sowie etwas Muskatnuss abschmecken.\n\nZubereitung der Lasagne:\nIn einer gebutterten, feuerfesten Form etwas Ragú Bolognese verteilen, eine Schicht Lasagneplatten darauf legen, die Nudelschicht wieder mit Ragú und dann mit einer Schicht Béchamel bedecken.\nAnschließend wieder eine Schicht Nudeln, Ragú und Béchamel. So Schicht für Schicht die Form füllen.\nDie letzte Schicht sollte die Béchamelsauce bilden. Dick mit geriebenem Käse bestreuen und Butterflöckchen darauf setzen.\n\nDie Lasagne im heißen Backofen bei 180 °C Umluft ca. 30 - 40 Minuten backen, bis die Kruste goldbraun ist.\n\nPro Portion 1122 Kcal",
+      "id": 6
+    },
+    {
+      "category": "2",
+      "name": "Brauhaus-Gulasch",
+      "duration": "95 Minuten",
+      "difficulty": "3 von 5",
+      "ingredients": "250g Gulasch vom Schwein\n1 EL Butterschmalz\n¼ TL Senf\n½ EL Tomatenmark\n½ große\tZwiebel(n), gehackt\n½ Knoblauchzehe(n), gepresst\n½ Karotte(n), gerieben\n100ml Bier, Sorte nach Wunsch\n300 ml Gemüsebrühe\nSalz und Pfeffer\n½ TL Paprikapulver, edelsüß\n½ EL Crème fraîche\nSaucenbinder",
+      "cooking": "Das Butterschmalz in einer tiefen Pfanne erhitzen. Das Gulasch im Butterschmalz scharf anbraten und mit Salz, Pfeffer und Paprikapulver würzen.\n\nWenn das Fleisch eine schöne Farbe angenommen hat und das Wasser verdampft ist, die gehackte Zwiebel, die gepresste Knoblauchzehe und die geriebene Karotte sowie den Senf und das Tomatenmark dazugeben und kurz weiterbraten.\n\nAnschließend mit dem Bier ablöschen und einkochen lassen. Mit der Gemüsebrühe auffüllen und mit Deckel ca. 1 Stunde köcheln lassen (bei Verwendung eines Schnellkochtopfes ca. 35 min).\n\nEtwa 5 min. vor Ende der Garzeit die Crème fraîche einrühren und nach Bedarf mit etwas Soßenbinder andicken. Vor dem Servieren nochmal abschmecken.\n\nAls Beilage passen Spätzle, Reis, Kartoffelbrei oder Salzkartoffeln",
+      "id": 7
+    },
+    {
+      "category": "3",
+      "name": "Mousse au chocolat",
+      "duration": "140 Minuten",
+      "difficulty": "2 von 5",
+      "ingredients": "200g Schokolade, dunkle, (über 70% Kakaoanteil)\n3 Ei(er)\n200 ml Sahne\n40g Zucker\n50g Butter",
+      "cooking": "Eier trennen, Eiweiß und Sahne separat steif schlagen.\n\nButter und Schokolade vorsichtig im Wasserbad schmelzen.\nEigelb in einer großen Schüssel mit 2 EL heißem Wasser cremig schlagen, den Zucker einrühren bis die Masse hell und cremig ist. Die geschmolzene Schokolade unterheben, anschließend sofort Eischnee und Sahne unterziehen (nicht mit dem Elektro-Mixer!).\n\nMindestens 2 Stunden im Kühlschrank kalt stellen. Aber nicht zu kalt servieren.\nEvtl. noch mit Schokostreuseln garnieren.",
+      "id": 8
+    },
+    {
+      "category": "3",
+      "name": "Apple Crumble",
+      "duration": "50 Minuten",
+      "difficulty": "1 von 5",
+      "ingredients": "5 große Äpfel\n90g Zucker, braun\n150g Mehl\n90g Butter\netwas Zimt",
+      "cooking": "Zuerst die Äpfel schälen und in kleine Stücke schneiden. Diese dann in eine ofenfeste Form geben. Nun die Butter in ganz kleine Stücke schneiden und mit dem Mehl, dem Zucker und dem Zimt zu Streuseln verarbeiten. Die Streusel über die Äpfel streuen.\n\nIm vorgeheizten Backofen bei 200 °C Ober-/Unterhitze eine halbe Stunde backen.\n\nAm besten schmeckt der Apple Crumble warm mit Sahne oder Eis.",
+      "id": 9
+    },
+    {
+      "category": "3",
+      "name": "Kaiserschmarrn - Tiroler Landgasthofrezept",
+      "duration": "60 Minuten",
+      "difficulty": "3 von 5",
+      "ingredients": "100g Rosinen\n5 EL Rum oder Cognac oder Wasser\n6 Eigelb\n1 Pck. Bourbon-Vanillezucker\n1 EL, gehäuft Zucker\n1 Prise(n) Salz\n250g Mehl\n500ml Milch\n50g Butter, zerlassen\n6 Eiweiß\n4 TL Puderzucker\nButter zum Braten, ca. 15 - 25 g je Pfanne",
+      "cooking": "Dieses traditionelle Rezept stammt aus einem Tiroler Landgasthof und wird dort seit vielen Generationen so zubereitet. Es enthält einige schöne Geheimnisse aus Omas Trickkiste, die nicht immer preisgegeben werden. Auf jeden Fall nichts für Kalorienzähler.\n\nDie Rosinen in 5 EL Rum mindestens eine halbe Stunde einlegen. Wer keinen Rum mag, nimmt Cognac. Kinder und Antialkoholiker nehmen Wasser.\n\nDas Eigelb mit dem Vanillezucker, einer Prise Salz und 1 geh. EL Zucker mit dem Handrührgerät schaumig aufschlagen. Nach und nach abwechselnd jeweils einen Löffel Mehl und einen guten Schuss Milch einrühren, bis alles aufgebraucht ist.\nAnschließend die zerlassene Butter einrühren. (Kalorienzähler: das könnt ihr auch sein lassen und Euch wundern, wieso das Zeug nicht so gut schmeckt, wie im Skiurlaub.) Der Teig wirkt ziemlich dünnflüssig, das ist genau richtig so. Den Teig jetzt eine halbe Stunde ruhen lassen, danach nochmals gut durchschlagen.\n\nDann das Eiweiß zu einem festen Eischnee aufschlagen und mit einem Löffel langsam aber gründlich unter die Teigmasse heben. Es sollten keine Eiweißflocken mehr zu sehen sein. Danach die Rosinen ohne den Rum unterrühren.\n\nIn einer Pfanne Butter zerlassen und den Teig ca. 1 cm hoch eingießen. Hitze etwas reduzieren und goldgelb anbacken lassen. Immer mal wieder drunter schauen. Die Masse vierteln, umdrehen und wieder anbacken lassen. In mundgerechte Stücke teilen, mit 2 TL Zucker bestreuen und kurz karamellisieren lassen.\nFast fertig: Auf Tellern anrichten und mit Puderzucker bestäuben.\n\nMit dem restlichen Teig genau so verfahren. Dabei vor jedem Eingießen in die Pfanne alles nochmals gut verrühren, da die Rosinen schnell zu Boden sinken.\n\nErgibt gute drei Pfannen voll Schmarrn und macht 4 - 6 Personen satt. Traditionell wird der Kaiserschmarrn mit Pflaumenkompott serviert.\n\nTipps:\nKaramellisieren bringt's: in einer beschichteten Pfanne brennt auch nichts an. Einfach Zucker drübergeben, wenden, eine halbe Minute warten, währenddessen auf die ungezuckerte Seite Zucker geben, nochmals wenden, wieder eine halbe Minute warten, fertig.\n\nNicht süß genug? Statt mehr Zucker in den Teig zu geben, sollte man den gewünschten Süßegrad anschließend mit Puderzucker erreichen. Zudem ist das Kompott meist auch recht süß und wer karamellisiert hat, der braucht dem Teig nicht nachzuhelfen.\n\nWarm halten: Klappt prima auf einem mit Backpapier ausgelegten Backblech oder in einer vorgewärmten Auflaufform bei 80 °C im Ofen mit Ober-/Unterhitze, wenn man mal mehrere hungrige Mäuler zu stopfen hat.",
+      "id": 10
+    },
+    {
+      "category": "4",
+      "name": "Würziges Kartoffelcurry",
+      "duration": "55 Minuten",
+      "difficulty": "3 von 5",
+      "ingredients": "600g Kartoffel(n)\n2 Knoblauchzehe(n)\n2 kleine Zwiebel(n)\n1 Becher Crème fraîche\nHarissa\nCurrypulver\nKorianderpulver\nKurkumapulver\n2 EL Tomatenmark\n2 EL Sesamöl\n1 kl. Dose/n Kokosmilch (200 ml)\nRosmarin\nSalz und Pfeffer",
+      "cooking": "Kartoffeln gründlich waschen und ungeschält gar kochen. Anschließend pellen und in Würfel schneiden.\n\nZwiebeln und Knoblauch fein hacken. Butter in einer großen Pfanne erhitzen und darin die Zwiebel und den Knoblauch glasig dünsten, Crème fraîche hinzufügen und mit Kokosmilch ablöschen. Tomatenmark, Sesamöl und Rosmarin hinzufügen, kräftig mit den Gewürzen abschmecken und etwas einkochen lassen. Die Kartoffelwürfel hinzufügen, mit der Soße bedecken und heiß werden lassen.\n\nMit frischer Petersilie bestreuen und servieren.\n\nDazu passt ein indisches Naanbrot sehr gut.",
+      "id": 11
+    },
+    {
+      "category": "4",
+      "name": "Paprika-Reispfanne mit Joghurtsauce",
+      "duration": "45 Minuten",
+      "difficulty": "3 von 5",
+      "ingredients": "Für den Reis:\n2 Tasse/n Reis\n4 Tasse/n Gemüsebrühe\n\nFür das Gemüse:\n2 Zwiebel(n)\n2 Zehe/n Knoblauch\n1 Chilischote(n)\n3 EL Tomatenmark\n3 Paprikaschote(n), nach Belieben bunt gemischt\n1 TL Paprikapulver, edelsüßes\n1 TL Paprikapulver, rosenscharfes\n1 Handvoll Kräuter, gemischte (Basilikum und Petersilie), frisch\n\nFür die Sauce:\n300g Joghurt\n2 Zehe/n Knoblauch\nSalz und Pfeffer",
+      "cooking": "Den Reis in der Gemüsebrühe garen (eine Tasse mit ca. 200 - 250 ml Inhalt als Maß nehmen).\n\nDie Chilischote längs halbieren, von den Kernen befreien und hacken. Die Paprikaschoten putzen und würfeln. Die Zwiebeln fein würfeln und in einer Pfanne in etwas Öl glasig dünsten. Den gepressten Knoblauch, die Chilischote und das Tomatenmark hinzugeben und kurz mit anschwitzen. Die Paprikawürfel in die Pfanne geben und ein paar Minuten lang anbraten, dabei ab und zu die Pfanne schwenken. Mit Paprikapulver, Salz und Pfeffer würzen. Den Reis hinzugeben, untermengen und heiß werden lassen. Die Kräuter hacken und zuletzt untermischen. Nochmals abschmecken.\n\nJoghurt und gepressten Knoblauch verrühren, mit Salz und Pfeffer abschmecken. Den Reis mit einem Klecks von der Joghurtsauce servieren.\n\nVon der Menge werden ca. 3 - 4 Personen satt. Der Reis kann auch als Beilage gegessen werden.\n\nDie Kräutermenge kann nach Belieben erhöht werden.",
+      "id": 12
+    }
+  ]
+}

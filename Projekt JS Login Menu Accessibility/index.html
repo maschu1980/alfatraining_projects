@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin: 0;
+            font-size: 1em;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a:link { 
+            color: blue;
+            text-decoration: none; }
+        a:hover { color: blueviolet; }
+        a.visited { color: darkblue; }
+        aside,
+        header,
+        main {
+            position: relative;
+            padding: 2rem;
+        }
+        aside {
+            transition: margin-top 0.3s ease;
+            background-color: bisque;
+        }
+        #navigation {
+            text-align: right;
+        }
+        #navcontainer {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: fit-content;
+            min-width: 200px;
+            height: 100%;
+            background-color: brown;
+            z-index: 100;
+            transition: margin-left 0.3s ease;
+        }
+        #navcontainer a { 
+            display: block;
+            color: white;
+            width: 100%;
+            padding: 1rem;
+        }
+        #navcontainer ul {
+            margin: 0;
+            padding: 0;
+            list-style: none; 
+        }
+        #navcontainer li:hover { background-color: rgba(0,0,0,.2); }
+        #navcontainer li:not(:last-of-type) { border-bottom: 1px solid rgba(255,255,255,.5); }
+        header {
+            background-color: cadetblue;
+        }
+        #accessibility button, #navigation button {
+            font-family: inherit;
+            font-size: inherit;
+            border-radius: .5rem;
+            border: 1px solid black;
+            padding: .5rem 1rem;
+            cursor: pointer;
+            background-color: rgb(255,255,255);
+            margin: 0 .25rem;
+        }
+        #accessibility button:hover, #navigation button:hover { background-color: rgb(200,200,200); }
+        .form-error { color:rgb(255, 0, 0); }
+    </style>
+</head>
+<body>
+    <nav id="navcontainer">
+        <ul>
+            <li><a href="index.html">Start</a></li>
+            <li><a href="#">Über uns</a></li>
+            <li><a href="#">Leistungen</a></li>
+            <li><a href="#">Kontakt</a></li>
+            <li><a href="#">Datenschutz</a></li>
+            <li><a href="#">Impressum</a></li>
+        </ul>
+    </nav>
+    <aside id="accessibility"></aside>
+    <header>
+        <nav id="navigation">
+            <button id="login-btn">Anmelden</button>
+            <button id="register-btn">Registrieren</button>
+            <button id="accessibility-btn">Barrierefreiheit</button>
+            <button id="menu-btn">Menü</button>
+        </nav>
+    </header>
+    <main id="container">
+        <h1>Hier könnte dein <a href="#" target="_self">Link</a> stehen</h1>
+        <p>
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        </p>
+        <p>
+            Weitere Informationen auf <a href="#" target="_self">Lorem Ipsum Webseite</a>
+        </p>
+    </main>
+    <footer>
+
+    </footer>
+    <script src="./js/accessibility.js"></script>
+    <script src="./js/script.js"></script>
+</body>
+</html>

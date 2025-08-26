@@ -1,0 +1,24 @@
+<h1>Registrieren</h1>
+<form id="registerform" name="register" method="post" action="register.html">
+  <div class="form-group">
+    <label for="username">Nutzername:</label>
+    <input type="text" id="username" name="username" required class="form-control">
+  </div>
+  <div class="form-group">
+    <label for="email">E-Mail:</label>
+    <input type="email" id="email" name="email" required class="form-control">
+  </div>
+  <div class="form-group">
+    <label for="website">Website:</label>
+    <input type="url" id="website" name="website" class="form-control" placeholder="http://">
+  </div>
+  <div class="form-group">
+    <label for="age">Alter:</label>
+    <input type="number" id="age" name="age" min="18" max="99" value="18" class="form-control">
+  </div>
+  <div class="form-group">
+    <label for="password">Passwort:</label>
+    <input type="password" id="password" name="password" required class="form-control">
+  </div>
+  <button type="submit" id="submit" name="submit" class="btn btn-primary btn-block">Registrieren</button>
+</form>

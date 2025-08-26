@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+html {
+    display: block;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+*, *:before, *:after { box-sizing: inherit; }
+	
+body {
+	padding: 2rem;
+	margin: 0;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: 1.25rem;
+	font-weight: normal;
+	color: rgba(255, 255, 255, 1);
+	background-image: url("./../pics/Weihnachten-im-Garten_32816423-1000x563.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+a.link, a:hover, a:visited { color: white; }
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+main {
+    width: 100%;
+    max-width: 600px;
+    background-color: rgba(0,0,0,0.7);
+    padding: 2rem;
+    padding-top: 0;
+}
+#formDiv .form-group {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px 0;
+}
+#formDiv .form-group label {
+    width: 100%;
+}
+#formDiv .form-group input, #formDiv button {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgba(255, 255, 255, .25);
+    background-color: rgba(0, 0, 0, .7);
+    color: white;
+    font-size: 1.125rem;
+}
+#formDiv button:hover {
+    background-color: rgba(0, 0, 0, .5);
+    cursor: pointer;
+}
+hr {
+    background-color: rgba(255, 255, 255, .25);
+    border: none;
+    height: 3px;
+}

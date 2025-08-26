@@ -1,0 +1,23 @@
+[
+    {
+        "username": "robby111",
+        "password": "kleinpetzi123",
+        "website": "http://www.flauschi.de",
+        "age": 32,
+        "email": "kleiner.petz@pluesch.de"
+    },
+    {
+        "username": "elfie",
+        "password": "mwelf0000",
+        "website": "http://www.zauberwald.de",
+        "age": 21,
+        "email": "elfie@zauberwald.de"
+    },
+    {
+        "username": "username",
+        "password": "passwort123456",
+        "website": "",
+        "age": 58,
+        "email": "klaus-dieter.ulrich@t-online.de"
+    }
+]
